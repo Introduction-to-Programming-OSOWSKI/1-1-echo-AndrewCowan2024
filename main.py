@@ -1,5 +1,4 @@
 #WRITE YOUR CODE IN THIS FILE
 
 def echo(x,y):
-   print(x * y)
-echo("hello", 5)
+   return(x * y)
